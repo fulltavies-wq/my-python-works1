@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "start:all": "start cmd /k \"cd /d C:\\Users\\UNIVERSEPC\\Desktop\\project && python -m uvicorn main:app --reload\" && ng serve",
+    "start:all": "start cmd /k \"cd /d C:\\Users\\Fufelshmerccc\\Desktop\\mysql_homework && python -m uvicorn main:app --reload\" && ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
